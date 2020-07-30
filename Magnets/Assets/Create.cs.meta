@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb63d7df808b2a949b513faba8cbe1f0
+timeCreated: 1516874697
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RCube: {fileID: 1492479713124572, guid: fc1fdf8514d81764c9741d278dbdf37e, type: 2}
+  - BCube: {fileID: 1197649688021980, guid: 3d9a1c05a717aeb4ba8b994f0ede0de8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
